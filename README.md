@@ -21,26 +21,6 @@ git clone https://github.com/khushi-sharma2506/ML_Project.git
 ```
 
 
-
-# ML_Project
-
-This repository contains three machine learning projects built primarily for academic learning and exploration.
-
-## Contents
-
-- **Object Detection Project:** Detects objects in images using deep learning.
-- **Landmark Detection Project:** Identifies landmarks and key points in images.
-- **Text Classification Project:** Classifies text into categories using NLP.
-
-
-## Getting Started
-
-1. Clone this repository:
-
-```
-git clone https://github.com/khushi-sharma2506/ML_Project.git
-```
-
 2. Install recommended Python libraries (if needed):
 
 ```
